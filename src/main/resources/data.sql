@@ -1,0 +1,1 @@
+INSERT INTO TEST (ANIMAL,FRUIT) VALUES ('Dog','Apple'),('Cat','Banana'),('Vis', 'Kiwi')

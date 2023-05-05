@@ -1,0 +1,11 @@
+Id,First name,Last name,Gender,E-mail,Location,INSERT INTO [CUSTOMER] VALUES 
+1,Gorden,Stormdiep,Male,g.stormdiep@hotmail.com,1,"(1,1,""Gorden"",""Stormdiep"",""Male"",""g.stormdiep@hotmail.com""),"
+2,Petra,Jansen,Female,p.jansen@gmail.com,1,"(2,1,""Petra"",""Jansen"",""Female"",""p.jansen@gmail.com""),"
+3,Karel,Visser,Male,karelvisser@hotmail.nl,3,"(3,3,""Karel"",""Visser"",""Male"",""karelvisser@hotmail.nl""),"
+4,Art,Martens,Male,ajbmartens@gmail.com,3,"(4,3,""Art"",""Martens"",""Male"",""ajbmartens@gmail.com""),"
+5,Giovanni,Fache,Male,giofache@live.nl,2,"(5,2,""Giovanni"",""Fache"",""Male"",""giofache@live.nl""),"
+6,Isabel,Eyckelbeck,Female,isabeleyckelbeck@shotmail.com,3,"(6,3,""Isabel"",""Eyckelbeck"",""Female"",""isabeleyckelbeck@shotmail.com""),"
+7,Marianne,Van Dijk,Female,m.vandijk@live.nl,3,"(7,3,""Marianne"",""Van Dijk"",""Female"",""m.vandijk@live.nl""),"
+8,Daniël,Janssen,Male,danielj@gmail.com,2,"(8,2,""Daniël"",""Janssen"",""Male"",""danielj@gmail.com""),"
+9,Mathias,Groen,Male,mathiasgroen@hotmail.nl,3,"(9,3,""Mathias"",""Groen"",""Male"",""mathiasgroen@hotmail.nl""),"
+10,Maartje,De Jong,Female,m.de.jong@hotmail.com,1,"(10,1,""Maartje"",""De Jong"",""Female"",""m.de.jong@hotmail.com""),"
